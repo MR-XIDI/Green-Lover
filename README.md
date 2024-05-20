@@ -26,7 +26,7 @@ This Tools Working Only 64bit Mobile!
 - `rm -rf Green-Lover`
 - `git clone --depth=1 https://github.com/MR-XIDI/Green-Lover.git`
 - `cd Green-Lover`
-- `python XIDU.py`
+- `python XIDI.py`
 
 Note: (This Tools Are Paid, So You Need Permission To Use XIDI Green-Lover Tools Enjoy)
 
