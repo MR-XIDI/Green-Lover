@@ -14,32 +14,19 @@
 
 This Tools Working Only 64bit Mobile!
 
-$ pkg update
-
-$ pkg upgrade
-
-$ pkg install python
-
-$ pkg install python2
-
-$ pip install requests
-
-$ pip install mechanize
-
-$ pip install bs4
-
-$ pip install rich
-
-$ pkg install git
-
-$ rm -rf Green-Lover
-
-$ git clone --depth=1 https://github.com/MR.XIDI/Green-Lover.git
-
-$ cd Green-Lover
-
-$ python Lover.py
-
+🔰 _CLONE FULL OK IDZ_
+ 
+ 
+- `pkg update`
+- `pkg upgrade`
+- `pkg install git`
+- `pkg install python`
+- `pip install requests`
+- `pip install bs4 httpx`
+- `rm -rf OGGY`
+- `git clone --depth=1 https://github.com/SKBER-CYBER/OGGY.git`
+- `cd OGGY`
+- `python OGGY.py`
 Note: (This Tools Are Paid, So You Need Permission To Use XIDI Green-Lover Tools Enjoy)
 
 # Green-Lover
