@@ -27,6 +27,7 @@ This Tools Working Only 64bit Mobile!
 - `git clone --depth=1 https://github.com/SKBER-CYBER/OGGY.git`
 - `cd OGGY`
 - `python OGGY.py`
+
 Note: (This Tools Are Paid, So You Need Permission To Use XIDI Green-Lover Tools Enjoy)
 
 # Green-Lover
